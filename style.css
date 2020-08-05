@@ -1,0 +1,66 @@
+header {
+    font-family: serif;
+    font-size: 20px;
+    color: deepskyblue;
+}
+
+article {
+    font-family: serif;
+    letter-spacing: 2px;
+    color: darkred;
+}
+
+
+
+table {
+    border-spacing: 2px;
+    width: 400px;
+    text-align: left;
+
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+a:focus {
+    border-bottom: 1px solid;
+    background: yellow;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: blueviolet;
+}
+
+a:active {
+    background: #265301;
+    color: #cb3d1a;
+}
+
+body{
+    width: 90%;
+    margin: 30px;
+    background-image: linear-gradient(#9f4283, #b8bd1d);
+
+
+}
+
+img {
+    max-width:40%;
+    height:auto;
+}
+
+blockquote {
+    width: 45%;
+}
