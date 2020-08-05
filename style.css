@@ -57,8 +57,10 @@ body{
 }
 
 img {
-    max-width:40%;
+    max-width:50%;
     height:auto;
+    float: left;
+    margin: 5%;
 }
 
 blockquote {
