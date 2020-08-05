@@ -81,7 +81,7 @@ blockquote {
 }
 
 body{
-    background-image: url("https://raw.githubusercontent.com/Dwaynebok/Enhancement/master/pexels-pixabay-531880.jpg");
+    background-image: url("https://raw.githubusercontent.com/Dwaynebok/Enhancement/master/pexels-gabriel-peter-696644.jpg");
     background-position: bottom;
     background-size: cover;
     backdrop-filter: contrast(5%);
@@ -112,6 +112,12 @@ th, td {
     padding: 8px;
 
 }
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
 
 .bad{
     color: red;
