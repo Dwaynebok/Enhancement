@@ -1,7 +1,7 @@
 header {
     font-family: serif;
     font-size: 20px;
-    color: deepskyblue;
+    color: brown;
 }
 
 article {
@@ -80,3 +80,18 @@ blockquote {
     border-color: lightseagreen;
 }
 
+body{
+    background-image: url("https://raw.githubusercontent.com/Dwaynebok/Enhancement/master/pexels-pixabay-531880.jpg");
+    background-position: bottom;
+    background-size: cover;
+    backdrop-filter: contrast(5%);
+
+}
+
+header>h4{
+    background-color: yellow;
+    display: inline-block;
+}
+
+
+header>table>
