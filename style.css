@@ -94,4 +94,29 @@ header>h4{
 }
 
 
-header>table>
+section>h4{
+    background-color: darksalmon;
+    display: inline-block;
+
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 20%;
+    border: 1px solid #DCDCDC;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+
+}
+
+.bad{
+    color: red;
+}
+
+.good{
+    color: green;
+}
