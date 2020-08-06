@@ -87,6 +87,7 @@ body{
     background-position: bottom;
     background-size: cover;
     backdrop-filter: contrast(5%);
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -128,3 +129,4 @@ tr:nth-child(even) {
 .good{
     color: green;
 }
+
